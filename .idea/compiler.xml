@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="2nd_temp" target="11" />
+      <module name="untitled.main" target="11" />
+      <module name="untitled.test" target="11" />
+      <module name="untitled1" target="11" />
+      <module name="untitled1.main" target="11" />
+      <module name="untitled1.test" target="11" />
+      <module name="untitled11.main" target="11" />
+      <module name="untitled11.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="untitled.main" options="--add-modules java.base" />
+      <module name="untitled11.main" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>
